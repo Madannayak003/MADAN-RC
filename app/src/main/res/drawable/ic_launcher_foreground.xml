@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- 1. Top: Bluetooth Badge, Rune & Radio Wave Signals -->
+    <!-- Cyan glow behind Bluetooth badge -->
+    <path
+        android:fillColor="#2500E5FF"
+        android:pathData="M54,18 C59.5,18 63.5,23 63.5,31 C63.5,39 59.5,44 54,44 C48.5,44 44.5,39 44.5,31 C44.5,23 48.5,18 54,18 Z" />
+
+    <!-- Royal Electric Blue Bluetooth Badge -->
+    <path
+        android:fillColor="#0072FF"
+        android:pathData="M54,20 C58,20 61.5,24.5 61.5,31 C61.5,37.5 58,42 54,42 C50,42 46.5,37.5 46.5,31 C46.5,24.5 50,20 54,20 Z" />
+
+    <!-- White Bluetooth Rune -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M54,22 L54,40 M49.5,35.5 L58.5,26.5 L54,22 M49.5,26.5 L58.5,35.5 L54,40" />
+
+    <!-- Wireless Radio Signal Waves (Left) -->
+    <path
+        android:strokeColor="#00A8FF"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M43,26 C40.5,29 40.5,33 43,36" />
+    <path
+        android:strokeColor="#00A8FF"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M38,23 C34.5,28 34.5,34 38,39" />
+
+    <!-- Wireless Radio Signal Waves (Right) -->
+    <path
+        android:strokeColor="#00A8FF"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M65,26 C67.5,29 67.5,33 65,36" />
+    <path
+        android:strokeColor="#00A8FF"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M70,23 C73.5,28 73.5,34 70,39" />
+
+    <!-- 2. Center: Sleek Blue Futuristic Sports / RC Car -->
+    <!-- Ground Aero Speed Shadow & Cyan Trace -->
+    <path
+        android:fillColor="#2000A8FF"
+        android:pathData="M24,65 C24,62 84,62 84,65 C84,68 24,68 24,65 Z" />
+    <path
+        android:fillColor="#50002555"
+        android:pathData="M27,65 C27,63.2 81,63.2 81,65 C81,66.8 27,66.8 27,65 Z" />
+    <path
+        android:strokeColor="#00B0FF"
+        android:strokeWidth="0.8"
+        android:strokeLineCap="round"
+        android:pathData="M23,65.5 L85,65.5" />
+
+    <!-- Dark Cabin & Glass -->
+    <path
+        android:fillColor="#0C1628"
+        android:pathData="M38,48 L46,43 L63,43 L73,48 L75,51 L33,51 Z" />
+    <path
+        android:fillColor="#2A6CAE"
+        android:pathData="M40,48 L47,44 L60,44 L57,50 L35,50 Z" />
+    <path
+        android:fillColor="#80D4FF"
+        android:pathData="M48,45 L56,45 L53,49 L44,49 Z" />
+
+    <!-- Main Electric Blue Car Body -->
+    <path
+        android:fillColor="#006EEB"
+        android:pathData="M28,54 L34,50 L48,48 L65,48 L76,51 L81,54 L83,58 L82,62 L78,63 L74,60 L70,58 L57,59 L52,63 L36,63 L32,60 L28,62 L25,58 Z" />
+
+    <!-- Front Hood Aero Highlights -->
+    <path
+        android:fillColor="#38B0FF"
+        android:pathData="M28,54 L36,51 L53,51 L50,57 L30,57 Z" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="0.5"
+        android:pathData="M39,52 L37,56 M47,52 L45,56" />
+
+    <!-- Front Grille -->
+    <path
+        android:fillColor="#0A101C"
+        android:pathData="M31,55 L44,55 L43,58.5 L32,58.5 Z" />
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="0.6"
+        android:pathData="M31,55 L44,55" />
+
+    <!-- Headlights (Glowing Cyan & White LED) -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M27,53 L32,53 L31,55 L27,54 Z" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="0.5"
+        android:pathData="M27,53 L32,53" />
+
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M46,53 L51,54 L50,56 L45,55 Z" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="0.5"
+        android:pathData="M46,53 L51,54" />
+
+    <!-- Front Splitter & Intakes -->
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="0.6"
+        android:pathData="M26,62.5 L51,62.5" />
+
+    <!-- Wheels & Rims -->
+    <path
+        android:fillColor="#151A22"
+        android:pathData="M52,58 C52,54 60,54 60,58 C60,63 52,63 52,58 Z" />
+    <path
+        android:fillColor="#00A8FF"
+        android:pathData="M54,58 C54,56 58,56 58,58 C58,60 54,60 54,58 Z" />
+
+    <path
+        android:fillColor="#151A22"
+        android:pathData="M73,56 C73,53 79,53 79,56 C79,61 73,61 73,56 Z" />
+    <path
+        android:fillColor="#00A8FF"
+        android:pathData="M74.5,56 C74.5,54.5 77.5,54.5 77.5,56 C77.5,57.5 74.5,57.5 74.5,56 Z" />
+
+    <!-- 3. Bottom: Bold Typography 'MADAN RC' & Underline -->
+    <!-- M -->
+    <path
+        android:strokeColor="#0055DC"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M26,81 L26,73 L29.5,77 L33,73 L33,81" />
+    <!-- A -->
+    <path
+        android:strokeColor="#0055DC"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M36.5,81 L39.5,73 L42.5,81 M37.5,78 L41.5,78" />
+    <!-- D -->
+    <path
+        android:strokeColor="#0055DC"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M46,81 L46,73 L49.5,73 C52,73 52,81 49.5,81 Z" />
+    <!-- A -->
+    <path
+        android:strokeColor="#0055DC"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M55,81 L58,73 L61,81 M56,78 L60,78" />
+    <!-- N -->
+    <path
+        android:strokeColor="#0055DC"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M64.5,81 L64.5,73 L69.5,81 L69.5,73" />
+
+    <!-- R -->
+    <path
+        android:strokeColor="#0055DC"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M74,81 L74,73 L77.5,73 C79.5,73 79.5,77 77.5,77 L74,77 M77,77 L79.5,81" />
+    <!-- C -->
+    <path
+        android:strokeColor="#0055DC"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M85.5,74.5 C84,73 81.5,73 81.5,77 C81.5,81 84,81 85.5,79.5" />
+
+    <!-- Dynamic Speed Underline Accent -->
+    <path
+        android:strokeColor="#006EEB"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round"
+        android:pathData="M27,84 L81,84" />
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="0.8"
+        android:strokeLineCap="round"
+        android:pathData="M35,85 L73,85" />
+
+</vector>

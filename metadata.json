@@ -1,0 +1,6 @@
+{
+  "name": "MADAN RC",
+  "description": "Bluetooth Smart Car Controller for Arduino Uno RC Car",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
